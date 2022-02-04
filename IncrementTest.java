@@ -4,6 +4,6 @@ import org.junit.*;
 public class IncrementTest {
     @Test
     public void Incrementation() {
-        assertEquals(3, Increment.increment(1));
+        assertEquals(2, Increment.increment(1));
     }
 }
